@@ -35,6 +35,6 @@ Collaborative         | Singular Value Decomposition (SVD)| rating_small.csv
 Hybrid                |           0                       |                     
 A/B testing           | Z-test                            | ab-test kaggle      
 
---
+---
 ## Story Data
 Story data in this kernel is describe in each practice case to make a recommendation engine for every recommender algorithm.
